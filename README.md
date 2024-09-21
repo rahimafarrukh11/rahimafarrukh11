@@ -1,6 +1,5 @@
-<h2 align="middle">Hi 👋! My name is Rahima and I'm a front-end developer from Pakistan</h2>
-
-###
+<h1 align="center">Hi 👋! I'm Rahima Farrukh</h1>
+<h2 align="center"> A passionate front-end developer from Pakistan</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimafarrukh11&label=Profile%20views&color=0e75b6&style=flat" alt="rahimafarrukh11" /> </p>
 
 - 🔭 I’m currently working on **front-end web development**
@@ -15,11 +14,6 @@
 <a href="https://fb.com/https://www.facebook.com/rahima.farrukh.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rahima.farrukh.16/" height="30" width="40" /></a>
 <a href="https://instagram.com/rahimafarrukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahimafarrukh" height="30" width="40" /></a>
 </p>
-
-###
-
-
-###
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -40,16 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
 
-###
+<p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=rahimafarrukh11&show_icons=true&locale=en" alt="rahimafarrukh11" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimafarrukh11&show_icons=true&locale=en&layout=compact" alt="rahimafarrukh11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahimafarrukh11&show_icons=true&locale=en" alt="rahimafarrukh11" /></p>
-
-<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimafarrukh11&" alt="rahimafarrukh11" /></p>
-
-###
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimafarrukh11&" alt="rahimafarrukh11" /></p>
 
 <br clear="both">
-
-###
