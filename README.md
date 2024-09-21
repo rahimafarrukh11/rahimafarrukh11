@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋! I'm Rahima Farrukh</h1>
 <h2 align="center"> A passionate front-end developer from Pakistan</h2>
 
+ <img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimafarrukh11&label=Profile%20views&color=0e75b6&style=flat" alt="rahimafarrukh11" /> </p>
 
 - 🔭 I’m currently working on **front-end web development**
