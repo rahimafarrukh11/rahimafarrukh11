@@ -4,7 +4,7 @@
  <img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimafarrukh11&label=Profile%20views&color=0e75b6&style=flat" alt="rahimafarrukh11" /> </p>
 
-- 🔭 I’m currently working on **front-end web development**
+- 🔭 I’m currently working on **front-end web development and game development**
 
 - 🌱 I’m currently learning **JavaScript, python and game development**
 
