@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Rahima Farrukh</h1>
+<h1 align="center">Hi 👋, I'm Rahima Farrukh</h1>
 <h3 align="center"> A passionate front-end developer from Pakistan</h3>
 
  <img align="right" alt="Coding" width="450" height="330" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
