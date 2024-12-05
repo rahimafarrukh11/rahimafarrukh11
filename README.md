@@ -49,5 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimafarrukh11&" alt="rahimafarrukh11" /></p>
 
-
-<br clear="both">
+[![](https://visitcount.itsvg.in/api?id=zainkashif1122&icon=0&color=0)](https://visitcount.itsvg.in)
