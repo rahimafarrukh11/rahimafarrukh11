@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/download/376344/python.svg" alt="python" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/370721/social-unity.svg" alt="unity" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
 </p>
 
 <p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=rahimafarrukh11&show_icons=true&locale=en" alt="rahimafarrukh11" /></p>
