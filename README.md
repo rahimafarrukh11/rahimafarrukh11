@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahima Farrukh</h1>
-<h3 align="center"> A passionate front-end developer from Pakistan</h3>
+<h3 align="center"> A passionate Front-End Developer and Game Developer from Pakistan</h3>
 
- <img align="right" alt="Coding" width="450" height="330" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimafarrukh11&label=Profile%20views&color=0e75b6&style=flat" alt="rahimafarrukh11" /> </p>
 
 - 🔭 I’m currently working on **front-end web development and game development**
