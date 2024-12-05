@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/download/376344/python.svg" alt="python" width="40" height="40"/>
-<img src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" alt="unity" width="40" height="40"/> 
+<img src="https://banner2.cleanpng.com/20190516/jxv/kisspng-computer-icons-portable-network-graphics-scalable-unity-icon-of-glyph-style-available-in-svg-png-1713892606875.webp" alt="unity" width="40" height="40"/> 
 </p>
 
 <p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=rahimafarrukh11&show_icons=true&locale=en" alt="rahimafarrukh11" /></p>
