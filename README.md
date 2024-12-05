@@ -11,7 +11,7 @@
 
 **📫 How to reach me:** [`rahima255284@gmail.com`]()
 
-### 🌐 Socials:
+## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahima-farrukh-b0a378324/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="https://www.linkedin.com/in/rahima-farrukh-b0a378324/" height="40" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/rahima.farrukh.16/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-512.png" alt="https://www.facebook.com/rahima.farrukh.16/" height="40" width="40" /></a>
@@ -20,7 +20,7 @@
 
 </p>
 
-# 💻 Language and Tools:
+## 💻 Language and Tools:
 <p align="left"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="android" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
@@ -42,7 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> 
 </p>
 
-# 📊 Github Stats:
+## 📊 Github Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rahimafarrukh11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rahimafarrukh11&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahimafarrukh11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
