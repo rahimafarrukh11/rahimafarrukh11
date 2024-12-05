@@ -38,8 +38,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-<img src="https://www.flaticon.com/free-icon/python_5968350?term=python&page=1&position=5&origin=search&related_id=5968350" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="unity" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/download/376344/python.svg" alt="python" width="40" height="40"/>
+<img src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" alt="unity" width="40" height="40"/> 
 </p>
 
 <p>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api?username=rahimafarrukh11&show_icons=true&locale=en" alt="rahimafarrukh11" /></p>
