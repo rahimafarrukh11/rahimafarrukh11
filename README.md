@@ -11,7 +11,7 @@
 
 **📫 How to reach me:** [`rahima255284@gmail.com`]()
 
-# 🌐 Socials:
+### 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahima-farrukh-b0a378324/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="https://www.linkedin.com/in/rahima-farrukh-b0a378324/" height="40" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/rahima.farrukh.16/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-512.png" alt="https://www.facebook.com/rahima.farrukh.16/" height="40" width="40" /></a>
