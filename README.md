@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
+<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimafarrukh11&label=Profile%20views&color=0e75b6&style=flat" alt="rahimafarrukh11" /> </p>
 
 **🔭 I’m currently working on:**<br> - Simple Websites (front-ends), creating user-friendly designs.<br> - A 3D game, focusing on game mechanics, 3D assets and implementing rendering techniques.<br><br>**🤝 I’m seeking assistance with:**<br> - Web development to enhance my skills. Any expertise or advice would be greatly appreciated.<br><br>**🌱 Currently learning:**<br>- HTML, CSS and JavaScript to build a strong foundation in Website Development.<br> - Game Development, with a focus on mastering gameplay mechanics, 3D modeling and scripting for game engines.<br>
