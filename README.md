@@ -11,13 +11,10 @@
 **📫 How to reach me:** [`rahima255284@gmail.com`]()
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rahima-farrukh-b0a378324/)
-[![Facebook](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-512.png)](https://fb.com/https://www.facebook.com/rahima.farrukh.16/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/zaynkashif._) 
-[![SnapChat](https://img.shields.io/badge/Snapchat-FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=black)](https://snapchat.com/t/yjYU46vj) 
-
-
-<a href="https://instagram.com/rahimafarrukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahimafarrukh" height="30" width="40" /></a>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahima-farrukh-b0a378324/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" alt="https://www.linkedin.com/in/rahima-farrukh-b0a378324/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/rahima.farrukh.16/" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_1-facebook-512.png" alt="https://www.facebook.com/rahima.farrukh.16/" height="30" width="40" /></a>
+<a href="https://instagram.com/rahimafarrukh" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" alt="rahimafarrukh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
